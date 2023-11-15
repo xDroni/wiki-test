@@ -8,4 +8,4 @@ editor: markdown
 dateCreated: 2023-11-15T13:41:59.920Z
 ---
 
-[asset1.txt](/asset1.txt)# assets-page
+[asset1.txt](/assets/asset1.txt)# assets-page
